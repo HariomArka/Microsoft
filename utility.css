@@ -1,0 +1,18 @@
+.flex{
+    display: flex;
+}
+.cursor{
+    cursor: pointer;
+}
+.colomn{
+    flex-direction: column;
+}
+
+.hidden{
+    display: none;
+}
+
+.anewclass{
+    justify-content: flex-start;
+    gap: 20px;
+}
